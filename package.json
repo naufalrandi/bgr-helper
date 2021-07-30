@@ -1,5 +1,5 @@
 {
-  "name": "bgr-helper",
+  "name": "@bageurinc/bgr-helper",
   "version": "1.0.0",
   "description": "helper for bageur",
   "main": "index.js",
